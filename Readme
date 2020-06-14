@@ -1,0 +1,11 @@
+Create a web application using Java technology platform, that uses the Java Web component technology, 
+capable of predicting the weather in any given town/city in the world.
+
+
+It has three pages. They are as follows:-
+  1.	Index Page 
+  2.	About page 
+  3.	GeoLocation Page
+  4.	Weather Page
+The GeoLocation page can fetch the latitude and longitude of any given city/town/place in the world using the MapBox API. 
+The co-ordinates are then passed to the weather page where it fetches the Max Temp,  Min Temp, Pressure and Humidity of the said location using the openweathermap API.
